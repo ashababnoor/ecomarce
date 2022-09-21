@@ -1,0 +1,19 @@
+.login-container{
+    max-width: 700px;
+}
+
+.full-logo {
+    width: 40vw;
+    min-width: 300px;
+    max-width: 400px;
+}
+
+
+.subtitle-text {
+    margin-top: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #666;
+    line-height: 1.4em;
+}
